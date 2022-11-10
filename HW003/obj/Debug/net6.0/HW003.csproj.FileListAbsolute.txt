@@ -1,0 +1,15 @@
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.csproj.AssemblyReference.cache
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.GeneratedMSBuildEditorConfig.editorconfig
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.AssemblyInfoInputs.cache
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.AssemblyInfo.cs
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.csproj.CoreCompileInputs.cache
+C:\homework\homework\HW003\bin\Debug\net6.0\HW003.exe
+C:\homework\homework\HW003\bin\Debug\net6.0\HW003.deps.json
+C:\homework\homework\HW003\bin\Debug\net6.0\HW003.runtimeconfig.json
+C:\homework\homework\HW003\bin\Debug\net6.0\HW003.dll
+C:\homework\homework\HW003\bin\Debug\net6.0\HW003.pdb
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.dll
+C:\homework\homework\HW003\obj\Debug\net6.0\refint\HW003.dll
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.pdb
+C:\homework\homework\HW003\obj\Debug\net6.0\HW003.genruntimeconfig.cache
+C:\homework\homework\HW003\obj\Debug\net6.0\ref\HW003.dll
