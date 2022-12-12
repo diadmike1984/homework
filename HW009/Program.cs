@@ -42,3 +42,5 @@ Console.Write("N = ");
 int N = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Result = {SumNumbers(M, N)}");
 */
+
+// Thank you so much for your mentorship!!!
